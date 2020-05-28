@@ -12168,11 +12168,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\code\\YTimt\\src\\Web\\WebMVC\\WebMVC.csproj",
+      "projectUniqueName": "E:\\code\\YT\\src\\Web\\WebMVC\\WebMVC.csproj",
       "projectName": "WebMVC",
-      "projectPath": "E:\\code\\YTimt\\src\\Web\\WebMVC\\WebMVC.csproj",
+      "projectPath": "E:\\code\\YT\\src\\Web\\WebMVC\\WebMVC.csproj",
       "packagesPath": "C:\\Users\\john\\.nuget\\packages\\",
-      "outputPath": "E:\\code\\YTimt\\src\\Web\\WebMVC\\obj\\",
+      "outputPath": "E:\\code\\YT\\src\\Web\\WebMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
